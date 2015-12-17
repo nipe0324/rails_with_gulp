@@ -36,3 +36,5 @@ bower.json
 
 # npm
 node_modules
+# build files
+/public/assets
